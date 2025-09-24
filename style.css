@@ -136,7 +136,7 @@ ul {
 /* Hero Section */
 .hero {
     height: 100vh;
-    background: url('https://via.placeholder.com/1920x1080/007bff/FFFFFF?text=Background+Image') no-repeat center center/cover;
+    background: url('https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=1920&auto=format&fit=crop') no-repeat center center/cover;
     display: flex;
     align-items: center;
     justify-content: center;
